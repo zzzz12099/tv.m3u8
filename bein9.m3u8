@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=368x208
-http://mynetworks.info//live/mahmuood55/01221774487m/1642.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727632623/ei/j0D5ZrKPLN-Ov_IP-s_h-AU/ip/37.236.1.149/id/h6yAA3aq9v4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/nagoi/1/keepalive/yes/fexp/51299152/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWrCuEkcE7uqxPDhXg5Ge3crZIMuV4tfwvjGhowidlGICIDg6tQ_E9ZCPluUh1tVFylXQDX1piZicqPJ5RRZufk4A/file/index.m3u8
