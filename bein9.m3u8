@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=368x208
-http://mynetworks.info//live/mahmuood55/01221774487m/1642.m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:B9:54:78&stream=192754&extension=m3u8
